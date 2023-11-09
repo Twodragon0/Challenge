@@ -29,7 +29,7 @@
         }
     ]
 }
-
+```
 
 ## Solution
 This problem involves ListObject and GetObject permissions for the "thebigiamchallenge-storage-9979f4b" bucket, which are open to anyone (Principal: *) to check the file list and download files.
