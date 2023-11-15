@@ -26,3 +26,10 @@ const main = async () => {
 };
 
 main();
+```
+
+## Usage
+Open the website in a browser.
+Open the browser's developer console (usually by pressing F12).
+Copy and paste the script into the console and press Enter.
+Note: This script assumes the existence of specific DOM elements on the target website. Make sure to adapt the script according to the structure of the website you are working with.
