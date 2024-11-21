@@ -1,4 +1,4 @@
-```markdown
+
 # Privacy Protection Education Automation Script
 
 Automate the completion of Privacy Protection Education by navigating through paginated content and interacting with necessary buttons on the website. This script streamlines the process, allowing users to efficiently complete their training without manual intervention.
