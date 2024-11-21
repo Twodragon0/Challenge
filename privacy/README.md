@@ -52,7 +52,7 @@ Completing Privacy Protection Education can be time-consuming due to repetitive 
 
 ### Step 1: Open the Privacy Protection Education Website
 
-Navigate to the [Privacy Protection Education](https://edu.privacy.go.kr/user/study/lectureView.do) website in your preferred web browser.
+Navigate to the [Privacy Protection Education](https://edu.privacy.go.kr/) website in your preferred web browser.
 
 ### Step 2: Access Developer Tools
 
